@@ -77,7 +77,7 @@ cloudOne:
     ## API key to be used with Trend Micro Cloud One Runtime Security
     ##
     ## Default value: (none)
-    apiKey:
+    apiKey: 20Usfq84UEv7Avg1GBCmEtIUtXb
 
     ## The API secret used to authenticate with Trend Micro Cloud One Runtime Security
     ##
