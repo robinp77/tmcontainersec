@@ -7,7 +7,7 @@ cloudOne:
     ## API key to be used with Trend Micro Cloud One Container Security
     ##
     ## Default value: (none)
-    apiKey: 1tCmQ6PIvZRk6KXE6nQ4zBVzWnd
+    apiKey: 20Usfq84UEv7Avg1GBCmEtIUtXb
 
     ## endpoint is the url of Trend Micro Cloud One Container Security service
     ## Allows for full endpoint to be provided or the Cloud One region (ex: us-1).
@@ -67,7 +67,7 @@ cloudOne:
 
 
   runtimeSecurity:
-    enabled: false
+    enabled: true
 
     ## enableMasterNode will enable Runtime Security to run on master nodes as well
     ##
