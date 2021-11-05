@@ -82,7 +82,7 @@ cloudOne:
     ## The API secret used to authenticate with Trend Micro Cloud One Runtime Security
     ##
     ## Default value: (none)
-    secret:
+    secret: trendmicro123
 
     ## The helloURL for Trend Micro Cloud One Runtime Security
     ##
